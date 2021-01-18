@@ -1,0 +1,8 @@
+﻿  Сombination without repetitions.cpp
+C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Сombination without repetitions\Сombination without repetitions.cpp(116,15): warning C4244: return: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Сombination without repetitions\Сombination without repetitions.cpp(433,30): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Сombination without repetitions\Сombination without repetitions.cpp(488,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Сombination without repetitions\Сombination without repetitions.cpp(671,69): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Сombination without repetitions\Сombination without repetitions.cpp(673,72): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Сombination without repetitions\Сombination without repetitions.cpp(674,81): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Сombination without repetitions.vcxproj -> C:\Users\IvanA\OneDrive\Desktop\Портфолио\Сombinatorial problems\Debug\Сombination without repetitions.exe
